@@ -15,7 +15,7 @@ https://github.com/Ph-12/
 https://github.com/Hirtes
 
 - Lucas Alves
-https://lnkd.in/ePx4Knn2
+https://github.com/lucasalvess96
 
 - Luckas Andrade
 https://github.com/Luckasandrade
