@@ -8,4 +8,16 @@ Vamos fazer um CRUD usando node.js e mongoDB.
 
 ### Membros
 
+- Philippe Villegas (Orientador)
+https://github.com/Ph-12/
 
+- Hiran Whites
+https://github.com/Hirtes
+
+- Lucas Alves
+https://lnkd.in/ePx4Knn2
+
+- Luckas Andrade
+https://github.com/Luckasandrade
+
+- Paulo Henrique
