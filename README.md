@@ -9,15 +9,17 @@ Vamos fazer um CRUD usando node.js e mongoDB.
 ### Membros
 
 - Philippe Villegas (Orientador)
-https://github.com/Ph-12/
+
+<a href = "https://github.com/Ph-12/"><img src="https://img.shields.io/badge/-github-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 - Hiran Whites
-https://github.com/Hirtes
+<a href = "https://github.com/Hirtes"><img src="https://img.shields.io/badge/-github-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 - Lucas Alves
-https://github.com/lucasalvess96
+<a href = "https://github.com/lucasalvess96"><img src="https://img.shields.io/badge/-github-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 - Luckas Andrade
-https://github.com/Luckasandrade
+<a href = "https://github.com/Luckasandrade"><img src="https://img.shields.io/badge/-github-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 - Paulo Henrique
+<a href = ""><img src="https://img.shields.io/badge/-github-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
