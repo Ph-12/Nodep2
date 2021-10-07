@@ -9,6 +9,11 @@ Vamos fazer um CRUD usando node.js e mongoDB.
  Parte 2
 - https://youtu.be/6_9BS4qx4mY
 
+Apresentação
+
+<a href = "https://www.canva.com/design/DAEpW7RSeq4/xxFm18vYrSmTWwtO2Fktwg/watch?utm_content=DAEpW7RSeq4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+"><img src="https://img.shields.io/badge/-link-%23333?style=for-the-badge&logo=canva&logoColor=white" target="_blank"></a>
+
 ##
 
 ### Membros
