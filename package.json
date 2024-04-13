@@ -4,7 +4,7 @@
   "description": "",
   "main": "App.js",
   "scripts": {
-    "start": "nodemon App.js"
+    "start": "node App.js" // Ou o comando específico para iniciar sua aplicação
   },
   "keywords": [],
   "author": "",
@@ -15,5 +15,12 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
+  },
+  "pm2": {
+    "script": "App.js",
+    "watch": true,
+    "ignore_watch": ["node_modules", "logs"],
+    "exec_mode": "cluster",
+    "instances": "max"
   }
 }
